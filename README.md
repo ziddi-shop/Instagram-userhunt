@@ -1,9 +1,13 @@
+<p align="center"><img src="logo.png" width="150px" height="150px" alt="insta logo"></p>
 
+<img align="right" alt="count" src="https://count.getloli.com/get/@ziddi-shop?theme=shop">
+    
+<h1 align="center">INSTAGRAM USER-HUNT SCRIPT</h1>
 
 ```markdown
 # 🐺 Instagram Username Generator & Notifier
-A powerful Python script to **generate random Instagram usernames** and **notify successful hits** via Telegram bot.  
-Secured with **script password** and supports **multi-threaded generation** for speed.
+A powerful Python script to generate random Instagram usernames and notify successful hits via Telegram bot.  
+Secured with script password and supports multi-threaded generation for speed.
 
 ---
 
@@ -21,9 +25,9 @@ Secured with **script password** and supports **multi-threaded generation** for 
 ## 🧠 How It Works
 
 1. Script asks for:
-   - ✅ **Script Password**
-   - 🤖 **Telegram Bot Token**
-   - 🆔 **Your Telegram User ID**
+   - ✅ Script Password
+   - 🤖 Telegram Bot Token
+   - 🆔 Your Telegram User ID
 
 2. Random usernames are generated and checked via Instagram’s public web API.
 
@@ -33,13 +37,11 @@ Secured with **script password** and supports **multi-threaded generation** for 
 
 ---
 
-## 🔐 Script Password
+## 🔐 Script Password : vip_ziddi
 
 ```
 
-vip_ziddi
 
-````
 
 ---
 
@@ -75,8 +77,8 @@ BY: @meta_service
 
 ## 🧑‍💻 Developer Info
 
-> 👨‍💻 Developer: [`@oio_r6`](https://t.me/nobi_shops)
-> 📢 Channel: [`@oio_r9`](https://t.me/meta_service)
+> 👨‍💻 Developer: [`@NOBI_SHOPS`](https://t.me/nobi_shops)
+> 📢 Channel: [`@META_SERVICE`](https://t.me/meta_service)
 
 ---
 
@@ -97,9 +99,5 @@ BY: @meta_service
 └── requirements.txt
 ```
 
----
 
-```
-
----
 
