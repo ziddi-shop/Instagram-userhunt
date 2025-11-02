@@ -47,6 +47,12 @@ Secured with script password and supports multi-threaded generation for speed.
 
 ## 📦 Installation
 
+Clone the repository
+```bash
+git clone https://github.com/ziddi-shop/Instagram-userhunt
+```
+cd InstaReporter  
+
 Install dependencies first:
 
 ```bash
