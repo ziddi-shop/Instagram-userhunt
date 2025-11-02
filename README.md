@@ -4,6 +4,29 @@
     
 <h1 align="center">INSTAGRAM USER-HUNT SCRIPT</h1>
 
+---
+
+## 📦 Installation
+
+Clone the repository
+```bash
+git clone https://github.com/ziddi-shop/Instagram-userhunt
+```
+
+
+Install dependencies first:
+
+```bash
+pip install requests user_agent pyfiglet
+````
+
+Run the script:
+
+```bash
+python main.py
+```
+
+---
 ```markdown
 # 🐺 Instagram Username Generator & Notifier
 A powerful Python script to generate random Instagram usernames and notify successful hits via Telegram bot.  
@@ -44,29 +67,6 @@ Secured with script password and supports multi-threaded generation for speed.
 
 
 ---
-
-## 📦 Installation
-
-Clone the repository
-```bash
-git clone https://github.com/ziddi-shop/Instagram-userhunt
-```
-
-
-Install dependencies first:
-
-```bash
-pip install requests user_agent pyfiglet
-````
-
-Run the script:
-
-```bash
-python main.py
-```
-
----
-
 ## 🔔 Telegram Message Example
 
 When a valid username is found:
