@@ -51,7 +51,7 @@ Clone the repository
 ```bash
 git clone https://github.com/ziddi-shop/Instagram-userhunt
 ```
-cd InstaReporter  
+
 
 Install dependencies first:
 
